@@ -1,0 +1,25 @@
+
+  Wordpress - plan
+-----------------------
+ 1. create child theme.
+ 2. import theme content and tools
+ 3. create photo gallery/ add js lightbox.
+ 4. use stored contact form and validation for page.
+ 5. back-up database information and logins.
+
+---------------------------------------------------------
+  SEO - Plus Plugins.
+---------------------------
+ 1. put keywords in alt tags and titles.
+ 2. change permalink to post name.
+--------------------------------------------
+  Recommended - plugins
+---------------------------
+ Rank math
+ A3 lazy load
+ Short Pixel
+ W3 Total Cache
+ Easy Table of Contents
+ 
+ 
+ 
